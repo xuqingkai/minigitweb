@@ -1,4 +1,4 @@
-minigitweb: Single file web UI for git
+minigitweb: Single file web UI for git（PHPGitAdmin）
 ======================================
 
 A single PHP file web interface to git repositories.
